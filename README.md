@@ -1,4 +1,4 @@
-### Olá! Eu sou o Júlio Fontes, estudante de Programação FrontEnd com HTML, CSS e JS e Backend com NODEJS
+### Olá! Eu sou o Júlio Fontes, estudante de Programação FrontEnd com HTML, CSS e JS e Backend com Node.JS
 
 ##
 
